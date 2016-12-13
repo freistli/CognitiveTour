@@ -1,0 +1,1 @@
+c:\users\freistli\documents\visual studio 15\Projects\CongnitiveTestApp\CongnitiveTestApp\CongnitiveTestApp.csproj;x86
